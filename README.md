@@ -2,9 +2,9 @@
   <img src="./assets/banner-roxane-qa.png" alt="Banner profissional de Roxane Nayara" />
 </p>
 
-# Olá, eu sou Roxane Nayara 👋
+## Olá! 👋
 
-Coordenadora de QA com foco em processos, governança, rastreabilidade, melhoria contínua e IA aplicada à Qualidade de Software.
+Sou Coordenadora de QA e atuo na estruturação de processos, governança, rastreabilidade, melhoria contínua e IA aplicada à Qualidade de Software.
 
 ## Sobre mim
 - Coordenação e evolução de times de QA
