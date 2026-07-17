@@ -17,7 +17,13 @@ Coordenadora de QA com foco em processos, governança, rastreabilidade, melhoria
 ## Projetos em destaque
 - [Portfólio profissional de QA](https://github.com/RoxaneNayara/portfolio-qa-process-improvement)
 - [Site profissional](https://roxanenayara.github.io/)
+
+## Conecte-se comigo
+ 
 - [LinkedIn](https://www.linkedin.com/in/roxanenayara)
 
 ## Tecnologias e referências
-Azure DevOps • Kanban • TMMi • Playwright • C# • Testes Web • Testes API • Rastreabilidade • Métricas de fluxo • IA aplicada à QA
+
+**Gestão e processos:** Azure DevOps, Kanban, TMMi e métricas de fluxo  
+**Qualidade e testes:** testes Web, API, rastreabilidade e Playwright  
+**Tecnologia:** C# e IA aplicada à Qualidade de Software
