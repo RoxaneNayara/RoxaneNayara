@@ -4,7 +4,7 @@
 
 ## Olá! 👋
 
-Sou Coordenadora de QA e atuo na estruturação de processos, governança, rastreabilidade, melhoria contínua e IA aplicada à Qualidade de Software.
+Sou **QA Lead e Coordenadora de QA**, com atuação em liderança de times, estruturação de processos, governança, rastreabilidade, melhoria contínua e IA aplicada à Qualidade de Software.
 
 ## Sobre mim
 - Coordenação e evolução de times de QA
@@ -15,7 +15,9 @@ Sou Coordenadora de QA e atuo na estruturação de processos, governança, rastr
 - IA aplicada à Qualidade de Software
 
 ## Projetos em destaque
+
 - [Portfólio profissional de QA](https://github.com/RoxaneNayara/portfolio-qa-process-improvement)
+- [Playwright Automation Lab](https://github.com/RoxaneNayara/playwright-automation-lab)
 - [Site profissional](https://roxanenayara.github.io/)
 
 ## Conecte-se comigo
@@ -25,5 +27,5 @@ Sou Coordenadora de QA e atuo na estruturação de processos, governança, rastr
 ## Tecnologias e referências
 
 **Gestão e processos:** Azure DevOps, Kanban, TMMi e métricas de fluxo  
-**Qualidade e testes:** testes Web, API, rastreabilidade e Playwright  
-**Tecnologia:** C# e IA aplicada à Qualidade de Software
+**Qualidade e testes:** testes Web, API, acessibilidade, rastreabilidade e Playwright  
+**Tecnologia e automação:** TypeScript, C#, GitHub Actions e IA aplicada à Qualidade de Software
