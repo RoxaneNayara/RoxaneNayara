@@ -8,7 +8,7 @@ Sou **QA Lead e Coordenadora de QA**, com atuação em liderança de times, estr
 
 ## Sobre mim
 - Coordenação e evolução de times de QA
-- Estruturação de processos de qualidade
+- Estruturação de processos de Qualidade de Software
 - Governança e rastreabilidade no Azure DevOps
 - Gestão de fluxo com práticas Kanban
 - Maturidade de testes com referência em TMMi
@@ -28,4 +28,8 @@ Sou **QA Lead e Coordenadora de QA**, com atuação em liderança de times, estr
 
 **Gestão e processos:** Azure DevOps, Kanban, TMMi e métricas de fluxo  
 **Qualidade e testes:** testes Web, API, acessibilidade, rastreabilidade e Playwright  
-**Tecnologia e automação:** TypeScript, C#, GitHub Actions e IA aplicada à Qualidade de Software
+**Automação e tecnologia:** TypeScript, C#, GitHub Actions e IA aplicada à Qualidade de Software
+
+---
+
+Transformando desafios de qualidade em processos mais claros, rastreáveis e sustentáveis.
